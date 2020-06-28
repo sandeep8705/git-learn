@@ -1,3 +1,3 @@
 # git-learn
-Learning GIT
-Ths is a GIT Learning Tutorial.
+Learning GIT.
+This is a GIT Learning Tutorial.
